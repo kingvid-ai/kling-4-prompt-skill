@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kling 4.0 Prompt"
+  short_description: "Write Kling video prompts with clear motion and timing"
+  default_prompt: "Use $kling-4-prompt to turn my scene idea into a ready-to-copy Kling 4.0 video prompt."
